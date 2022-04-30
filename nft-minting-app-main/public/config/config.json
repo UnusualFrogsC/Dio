@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4FdCCAB5ae4c91243ACE8BA48E117e575e085511",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4fdccab5ae4c91243ace8ba48e117e575e085511",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "UnusualFrogsCrew",
+  "SYMBOL": "UNFC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 90000000000000000000,
+  "DISPLAY_COST": 90,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/unusualfrogscrew",
+  "SHOW_BACKGROUND": false
+}
